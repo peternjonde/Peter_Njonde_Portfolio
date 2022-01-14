@@ -20,4 +20,4 @@
 * Used pygame to create a canvas and to create ovals(eggs) that would drop from the top of the canvas, and you would lose a life if the egg touches the bottom of the canvas 
 * Used and half cycle for my catcher and was able to move it using x co-ordinate and y co-ordinate and when the egg hit the catcher you gained points 
 
-<img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screen%20Shot%202022-01-14%20at%202.31.04%20PM.png" width="200" height="400" />
+<img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screen%20Shot%202022-01-14%20at%202.31.04%20PM.png" width="600" height="400" />
