@@ -8,7 +8,7 @@
 
 <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.43.53.png" width="200" height="400" /> <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.44.03.png" width="200" height="400" /> <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.44.10.png" width="200" height="400" />
 
-# Bill payment App (SwiftUI)
+# [Bill payment App (SwiftUI)](https://github.com/peternjonde/Bill-App)
 * An application which requires the user to login and saves their information using Firebase then allows them to enter the requiring bills they have
 * Used UNUsernaotificationCenter to ask for permission to send notifications of when it's time to pay your bills
 * Used @AppStorage to save some of their important information like their name and the list of the bills they have saved in their list 
