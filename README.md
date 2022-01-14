@@ -1,5 +1,5 @@
 # Peter_Njonde_Portfolio
-
+* Sometimes the images do not load sorry :(
 
 # [Weather App (SwiftUI)](https://github.com/peternjonde/Weather_APP)
 * An application which uses an Api found online to show the weather of your location 
