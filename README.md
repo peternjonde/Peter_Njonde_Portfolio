@@ -21,3 +21,14 @@
 * Used and half cycle for my catcher and was able to move it using x co-ordinate and y co-ordinate and when the egg hit the catcher you gained points 
 
 <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screen%20Shot%202022-01-14%20at%202.31.04%20PM.png" width="600" height="400" />
+
+
+# [Sudoku Solver (Python)](https://github.com/peternjonde/Sudoku)
+* A python program that uses a backtracking algorithm to solve the Sudoku
+* Implements multiple different functions to make the program run efficiently 
+* Uses GUI and pygame to present the game in a appealing manner 
+
+<img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screen%20Shot%202022-01-15%20at%2012.02.44%20PM.png" width="400" height="400" />
+
+
+
