@@ -6,6 +6,9 @@
 * Used CLLocationManger to prompt the user when they open the app to let us use their location
 * With the information from the json file, I implemented the weather on the UI with a nice aesthetic
 
+<img width="1440" alt="Screen Shot 2022-04-04 at 7 51 14 PM" src="https://user-images.githubusercontent.com/97696928/161650661-33bdc5f4-bd52-4b5c-8670-5968b06a5668.png">
+
+
 <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.43.53.png" width="200" height="400" /> <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.44.03.png" width="200" height="400" /> <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.44.10.png" width="200" height="400" />
 
 # [Bill payment App (SwiftUI)](https://github.com/peternjonde/Bill-App)
