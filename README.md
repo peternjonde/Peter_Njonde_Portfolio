@@ -24,9 +24,7 @@
 * Used pygame to create a canvas and to create ovals(eggs) that would drop from the top of the canvas, and you would lose a life if the egg touches the bottom of the canvas 
 * Used and half cycle for my catcher and was able to move it using x co-ordinate and y co-ordinate and when the egg hit the catcher you gained points 
 
-<img width="600" height="400" alt="Screen Shot 2022-04-04 at 8 10 01 PM" src="https://user-images.githubusercontent.com/97696928/161653604-2fadeef0-99d8-4a12-8896-30fe55f1ee78.png">
-
-
+<img width="1437" alt="Screen Shot 2022-04-04 at 8 10 01 PM" src="https://user-images.githubusercontent.com/97696928/161653981-162472f1-d48b-4cfb-b678-d4167699f840.png">
 
 # [Sudoku Solver (Python)](https://github.com/peternjonde/Sudoku)
 * A python program that uses a backtracking algorithm to solve the Sudoku
