@@ -7,13 +7,9 @@
 * With the information from the json file, I implemented the weather on the UI with a nice aesthetic
 
 <img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://user-images.githubusercontent.com/97696928/161652740-bf157913-a2a6-4fe3-9f36-7878c8bfffd1.png">
-<img width="377" alt="Screen Shot 2022-04-04 at 7 58 38 PM" src="https://user-images.githubusercontent.com/97696928/161652748-5a30bd6d-59f4-489b-87ee-cba88425dd95.png">
-<img width="375" alt="Screen Shot 2022-04-04 at 7 59 09 PM" src="https://user-images.githubusercontent.com/97696928/161652754-5b63a0a1-7244-4fb4-8d63-578c42701af2.png">
+<img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 58 38 PM" src="https://user-images.githubusercontent.com/97696928/161652748-5a30bd6d-59f4-489b-87ee-cba88425dd95.png">
+<img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 59 09 PM" src="https://user-images.githubusercontent.com/97696928/161652754-5b63a0a1-7244-4fb4-8d63-578c42701af2.png">
 
-
-
-
-<img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.43.53.png" width="200" height="400" /> <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.44.03.png" width="200" height="400" /> <img src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-01-13%20at%2013.44.10.png" width="200" height="400" />
 
 # [Bill payment App (SwiftUI)](https://github.com/peternjonde/Bill-App)
 * An application which requires the user to login and saves their information using Firebase then allows them to enter the requiring bills they have
