@@ -6,9 +6,7 @@
 * Used CLLocationManger to prompt the user when they open the app to let us use their location
 * With the information from the json file, I implemented the weather on the UI with a nice aesthetic
 
-<img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://user-images.githubusercontent.com/97696928/161652740-bf157913-a2a6-4fe3-9f36-7878c8bfffd1.png">
-<img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 58 38 PM" src="https://user-images.githubusercontent.com/97696928/161652748-5a30bd6d-59f4-489b-87ee-cba88425dd95.png">
-<img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 59 09 PM" src="https://user-images.githubusercontent.com/97696928/161652754-5b63a0a1-7244-4fb4-8d63-578c42701af2.png">
+<img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://user-images.githubusercontent.com/97696928/161652740-bf157913-a2a6-4fe3-9f36-7878c8bfffd1.png"> <img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 58 38 PM" src="https://user-images.githubusercontent.com/97696928/161652748-5a30bd6d-59f4-489b-87ee-cba88425dd95.png"> <img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 59 09 PM" src="https://user-images.githubusercontent.com/97696928/161652754-5b63a0a1-7244-4fb4-8d63-578c42701af2.png">
 
 
 # [Bill payment App (SwiftUI)](https://github.com/peternjonde/Bill-App)
