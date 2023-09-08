@@ -10,7 +10,7 @@
 
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/b42dcc77-fe2c-4c27-b563-56ea845415df"> 
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/4fca18e6-e0f1-4099-bef1-8d55d8d5ab6f"> 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/ec18ee3c-f980-4c04-bd87-278865ae0ffe"> 
+<img width="600" height = "400" alt="other" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/ec18ee3c-f980-4c04-bd87-278865ae0ffe"> 
 
 # [Weather App (SwiftUI)](https://github.com/peternjonde/Weather_APP)
 * An application which uses an Api found online to show the weather of your location 
