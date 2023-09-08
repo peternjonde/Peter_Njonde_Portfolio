@@ -1,6 +1,8 @@
 # Peter_Njonde_Portfolio
 * Sometimes the images do not load sorry :(
-* Press on the names of the projects to view the code 
+* Press on the names of the projects to view the code
+
+# [Kids learn code (html/java)](https://github.com/peternjonde/kids)
 
 # [Weather App (SwiftUI)](https://github.com/peternjonde/Weather_APP)
 * An application which uses an Api found online to show the weather of your location 
