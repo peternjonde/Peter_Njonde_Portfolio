@@ -3,6 +3,11 @@
 * Press on the names of the projects to view the code
 
 # [Kids learn code (html/java)](https://github.com/peternjonde/kids)
+* A website I created during the summer to help kids get into coding (only up during the summer)
+* using HTML and css to create the design of the site and the diffrent pages
+* I also use Java to create animations on the screen
+
+<img width="200" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://user-images.githubusercontent.com/97696928/161652740-bf157913-a2a6-4fe3-9f36-7878c8bfffd1.png"> 
 
 # [Weather App (SwiftUI)](https://github.com/peternjonde/Weather_APP)
 * An application which uses an Api found online to show the weather of your location 
