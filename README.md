@@ -9,7 +9,7 @@
 * I also use Java to create animations on the screen
 
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/b42dcc77-fe2c-4c27-b563-56ea845415df"> 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/4fca18e6-e0f1-4099-bef1-8d55d8d5ab6f.png"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/4fca18e6-e0f1-4099-bef1-8d55d8d5ab6f"> 
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/93370e49b76da3e595c51dae30bef19fcf1ac85a/Screenshot%202023-09-08%20at%2012.33.13%20PM.png"> 
 
 # [Weather App (SwiftUI)](https://github.com/peternjonde/Weather_APP)
