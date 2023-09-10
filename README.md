@@ -3,10 +3,10 @@
 * Press on the names of the projects to view the code
 
 
-# [Kids learn code (html/java)](https://github.com/peternjonde/kids)
+# [Kids learn code (html/javaScript)](https://github.com/peternjonde/kids)
 * A website I created during the summer to help kids get into coding (only up during the summer)
 * using HTML and css to create the design of the site and the different pages
-* I also use Java to create animations on the screen
+* I also use JavaScrpit to create animations on the screen
 * I used Firebase to save the appointments made
 
 
