@@ -7,6 +7,8 @@
 * A website I created during the summer to help kids get into coding (only up during the summer)
 * using HTML and css to create the design of the site and the different pages
 * I also use Java to create animations on the screen
+* I used Firebase to save the appointments made
+
 
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/b42dcc77-fe2c-4c27-b563-56ea845415df"> 
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/4fca18e6-e0f1-4099-bef1-8d55d8d5ab6f"> 
