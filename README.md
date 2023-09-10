@@ -21,6 +21,13 @@
 * Then illustrates to the user the words that were shown the most
 
 
+# [World cup database(C)](https://github.com/peternjonde/worldcup)
+* Creates a database for the world cup 
+* With struct database I was able to add teams to it, search it , delete teams and update the database
+* Uses header files to give information to the C files 
+* Has a Makefile to run 
+
+
 # [Weather App (SwiftUI)](https://github.com/peternjonde/Weather_APP)
 * An application which uses an Api found online to show the weather of your location 
 * Used CLLocationManger to prompt the user when they open the app to let us use their location
