@@ -14,6 +14,13 @@
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/4fca18e6-e0f1-4099-bef1-8d55d8d5ab6f"> 
 <img width="600" height = "400" alt="other" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/ec18ee3c-f980-4c04-bd87-278865ae0ffe"> 
 
+
+# [Most frequent(Java)](https://github.com/peternjonde/keywordfinder)
+* Stores the words of text files into an AVL Tree while recording the number of recurrence of the word by updating the tree
+* Creates a priority queue to find the words that show up from the most to the least then turns it into an array
+* Then illustrates to the user the words that were shown the most
+
+
 # [Weather App (SwiftUI)](https://github.com/peternjonde/Weather_APP)
 * An application which uses an Api found online to show the weather of your location 
 * Used CLLocationManger to prompt the user when they open the app to let us use their location
