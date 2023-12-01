@@ -9,7 +9,7 @@
 * Uses tri and a hashmap to hold and filter throght the dictionary
 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="[https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/b42dcc77-fe2c-4c27-b563-56ea845415df)](https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screenshot%202023-12-01%20at%208.31.43%20AM.png)"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screenshot%202023-12-01%20at%208.31.43%20AM.png"> 
 
 
 # [Kids learn code (html/javaScript)](https://github.com/peternjonde/kids)
