@@ -30,6 +30,10 @@
 <img width="600" height = "400" alt="other" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/ec18ee3c-f980-4c04-bd87-278865ae0ffe"> 
 
 
+# [Bank(C)](https://github.com/peternjonde/bank)
+* Mutual exclusion algorithm that allows for transactions between bank accounts and diffent clients
+* Uses threads and mutex lock and unlock to enforce mutual exclusion and allows for processes to run at same time
+
 # [Most frequent(Java)](https://github.com/peternjonde/Keywordfinder)
 * Stores the words of text files into an AVL Tree while recording the number of recurrence of the word by updating the tree
 * Creates a priority queue to find the words that show up from the most to the least then turns it into an array
