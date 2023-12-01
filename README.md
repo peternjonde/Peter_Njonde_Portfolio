@@ -2,14 +2,14 @@
 * Sometimes the images do not load sorry :(
 * Press on the names of the projects to view the code
 
-#[Wordwise (java/javafx)](https://github.com/peternjonde/Wordwise)
+# [Wordwise (java/javafx)](https://github.com/peternjonde/Wordwise)
 * An appication that takes in a text file and corrects the file
 * It uses java to create the backend of the application that correct the file
 * Uses javafx to create the UI for the aplication and to make it look good
 * Uses tri and a hashmap to hold and filter throght the dictionary
 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/b42dcc77-fe2c-4c27-b563-56ea845415df)"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="[https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/b42dcc77-fe2c-4c27-b563-56ea845415df)](https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screenshot%202023-12-01%20at%208.31.43%20AM.png)"> 
 
 
 # [Kids learn code (html/javaScript)](https://github.com/peternjonde/kids)
