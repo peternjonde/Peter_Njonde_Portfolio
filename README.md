@@ -9,9 +9,9 @@
 * Uses tri and a hashmap to hold and filter throght the dictionary
 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/Screenshot 2023-12-01 at 8.34.06 AM.png"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/8ab4cc12-9fbe-4f8d-9379-4ca0a8f85ba3"> 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/Screenshot 2023-12-01 at 8.34.20 AM.png">
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/a0bae9e8-b384-44e9-89ce-01c4f0748594">
 
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/89d9fcbd-443e-44e2-a2f3-9ccb5f091ef4"> 
 
