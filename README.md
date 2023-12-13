@@ -9,13 +9,13 @@
 * Uses tri and a hashmap to hold and filter throght the dictionary
 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screenshot%202023-12-01%20at%208.31.43%20AM.png"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/Screenshot%202023-12-01%20at%208.31.43%20AM.png"> 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screenshot 2023-12-01 at 8.31.56 AM.png"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/Screenshot 2023-12-01 at 8.31.56 AM.png"> 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screenshot 2023-12-01 at 8.34.06 AM.png"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/Screenshot 2023-12-01 at 8.34.06 AM.png"> 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/blob/main/Screenshot 2023-12-01 at 8.34.20 AM.png">
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/Screenshot 2023-12-01 at 8.34.20 AM.png">
 
 
 # [Kids learn code (html/javaScript)](https://github.com/peternjonde/kids)
