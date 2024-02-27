@@ -32,11 +32,11 @@
 
 
 # [Kids learn code (html/javaScript)](https://github.com/peternjonde/kids)
-*Pen Tool created with OpenGL(using Glew) which allows user to create dots but each time a dot is created a Bezier spine line is created between the last point and the new one. The points and control point can be moved which will alter the spine line
-*The coordinates of each point is contained in a dynamic array, which is of the type of a struct which holds all the information about the node like its location
-*Uses GLFW_MOUSE_BUTTON to get uses mouse interaction
-*Uses glfwGetCursorPos to get the position of the cursor to determine where the buttons should go  and uses glVertex2f to put the lines on the screen 
-*Uses Bezier curve equation to find points on the curve line then render each point as a line segment to create lines 
+* Pen Tool created with OpenGL(using Glew) which allows user to create dots but each time a dot is created a Bezier spine line is created between the last point and the new one. The points and control point can be moved which will alter the spine line
+* The coordinates of each point is contained in a dynamic array, which is of the type of a struct which holds all the information about the node like its location
+* Uses GLFW_MOUSE_BUTTON to get uses mouse interaction
+* Uses glfwGetCursorPos to get the position of the cursor to determine where the buttons should go  and uses glVertex2f to put the lines on the screen 
+* Uses Bezier curve equation to find points on the curve line then render each point as a line segment to create lines 
 
 
 
