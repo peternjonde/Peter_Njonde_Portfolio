@@ -40,7 +40,7 @@
 
 
 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/28277a43-2260-46a5-842b-dcd3cc6e3ebf"> 
+<img width="600" height = "400" alt="Fine Line Tool Photo" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/28277a43-2260-46a5-842b-dcd3cc6e3ebf"> 
 
 
 
