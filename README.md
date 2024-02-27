@@ -31,6 +31,20 @@
 <img width="600" height = "400" alt="other" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/ec18ee3c-f980-4c04-bd87-278865ae0ffe"> 
 
 
+# [Kids learn code (html/javaScript)](https://github.com/peternjonde/kids)
+*Pen Tool created with OpenGL(using Glew) which allows user to create dots but each time a dot is created a Bezier spine line is created between the last point and the new one. The points and control point can be moved which will alter the spine line
+*The coordinates of each point is contained in a dynamic array, which is of the type of a struct which holds all the information about the node like its location
+*Uses GLFW_MOUSE_BUTTON to get uses mouse interaction
+*Uses glfwGetCursorPos to get the position of the cursor to determine where the buttons should go  and uses glVertex2f to put the lines on the screen 
+*Uses Bezier curve equation to find points on the curve line then render each point as a line segment to create lines 
+
+
+
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github-production-user-asset-6210df.s3.amazonaws.com/97696928/308023227-28277a43-2260-46a5-842b-dcd3cc6e3ebf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240227T030920Z&X-Amz-Expires=300&X-Amz-Signature=09202e91286b27006e438663e7d21ac20f57ae2cf71a56b0622d2f4d130cde5f&X-Amz-SignedHeaders=host&actor_id=97696928&key_id=0&repo_id=447710152"> 
+
+
+
+
 # [Bank(C)](https://github.com/peternjonde/bank)
 * Mutual exclusion algorithm that allows for transactions between bank accounts and diffent clients
 * Uses threads and mutex lock and unlock to enforce mutual exclusion and allows for processes to run at same time
