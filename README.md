@@ -31,7 +31,7 @@
 <img width="600" height = "400" alt="other" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/ec18ee3c-f980-4c04-bd87-278865ae0ffe"> 
 
 
-# [Bezier Fine Line Tool (html/javaScript)](https://github.com/peternjonde/LineTool)
+# [Bezier Fine Line Tool (C++)](https://github.com/peternjonde/LineTool)
 * Pen Tool created with OpenGL(using Glew) which allows user to create dots but each time a dot is created a Bezier spine line is created between the last point and the new one. The points and control point can be moved which will alter the spine line
 * Each point is contained in a dynamic array, which is of the type of a struct which holds all the information about the node like its location
 * Uses GLFW_MOUSE_BUTTON to get uses mouse interaction
