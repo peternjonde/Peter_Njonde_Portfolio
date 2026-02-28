@@ -12,9 +12,9 @@
 * Demonstrated full-stack development capabilities from database design to UI implementation
 
 <img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/user-attachments/assets/566ac7bc-4947-4891-af18-215c27a43b1a"> 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/8ab4cc12-9fbe-4f8d-9379-4ca0a8f85ba3"> 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/8ab4cc12-9fbe-4f8d-9379-4ca0a8f85ba3"> 
-<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/8ab4cc12-9fbe-4f8d-9379-4ca0a8f85ba3"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/user-attachments/assets/7120f98b-c1ef-45fc-b894-6378e2a33235"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/user-attachments/assets/a626fa19-6fdc-4af2-a650-97dfae658142"> 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/user-attachments/assets/e76af942-ec69-4a35-b676-e60c2b24c77c"> 
 
   
 # [Wordwise (java/javafx)](https://github.com/peternjonde/Wordwise)
