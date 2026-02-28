@@ -11,6 +11,14 @@
 * Built responsive React frontend with client-side routing, achieving smooth user experience across devices
 * Demonstrated full-stack development capabilities from database design to UI implementation
 
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/"https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/assets/a3f36785-f980-4198-a80f-cca1edf64f56">
+
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/"https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/8ab4cc12-9fbe-4f8d-9379-4ca0a8f85ba3"> 
+
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/"https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/8ab4cc12-9fbe-4f8d-9379-4ca0a8f85ba3"> 
+
+<img width="600" height = "400" alt="Screen Shot 2022-04-04 at 7 57 58 PM" src="https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/"https://github.com/peternjonde/Peter_Njonde_Portfolio/assets/97696928/8ab4cc12-9fbe-4f8d-9379-4ca0a8f85ba3"> 
+
   
 # [Wordwise (java/javafx)](https://github.com/peternjonde/Wordwise)
 * An appication that takes in a text file and corrects the file
