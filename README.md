@@ -2,6 +2,12 @@
 * Sometimes the images do not load sorry :(
 * Press on the names of the projects to view the code
 
+# [Letterbox Light (React/Express.js/MariaDB)](https://github.com/peternjonde/Wordwise)
+* An appication that takes in a text file and corrects the file
+* It uses java to create the backend of the application that correct the file
+* Uses javafx to create the UI for the aplication and to make it look good
+* Uses tri and a hashmap to hold and filter throght the dictionary
+
 # [Wordwise (java/javafx)](https://github.com/peternjonde/Wordwise)
 * An appication that takes in a text file and corrects the file
 * It uses java to create the backend of the application that correct the file
