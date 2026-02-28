@@ -2,12 +2,16 @@
 * Sometimes the images do not load sorry :(
 * Press on the names of the projects to view the code
 
-# [Letterbox Light (React/Express.js/MariaDB)](https://github.com/peternjonde/Wordwise)
-* An appication that takes in a text file and corrects the file
-* It uses java to create the backend of the application that correct the file
-* Uses javafx to create the UI for the aplication and to make it look good
-* Uses tri and a hashmap to hold and filter throght the dictionary
+# [Letterbox Light (React/Express.js/MariaDB)](https://github.com/peternjonde/LetterBox-Light)
+* Built a full-stack movie review web application enabling users to browse films, write reviews, and rate movies on a 1-10 scale
+* Integrated The Movie Database (TMDB) API to fetch real-time movie data, posters, and cast information for 10,000+ titles
+* Implemented secure user authentication with bcrypt password hashing and persistent login sessions
+* Designed relational database schema in MariaDB with users and reviews tables, ensuring data integrity and efficient queries
+* Created RESTful API endpoints with Express.js to handle CRUD operations for user accounts and movie reviews
+* Built responsive React frontend with client-side routing, achieving smooth user experience across devices
+* Demonstrated full-stack development capabilities from database design to UI implementation
 
+  
 # [Wordwise (java/javafx)](https://github.com/peternjonde/Wordwise)
 * An appication that takes in a text file and corrects the file
 * It uses java to create the backend of the application that correct the file
